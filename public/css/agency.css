@@ -687,17 +687,14 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .load {
   position: relative;
   width: auto;
-  /* border-radius: 50%; */
   display: flex;
   justify-content: center;
   align-items: center;
-  /* background: #031625; */
   background-size: cover;
   padding: 25%;
 }
 
 .spin {
-  background-color: #00000020;
   height: 75px;
   width: 75px;
   border-radius: 150px;
